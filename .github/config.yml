@@ -1,0 +1,5 @@
+COMMIT_MESSAGE_REGEX: ^[a-zA-Z0-9_- ]+:
+VALID_COMMIT_MESSAGE: Commit messages are valid
+INVALID_COMMIT_MESSAGE: Commit messages are invalid
+SINGLE_OTHER_INVALID_MESSAGE: Only one message is invalid
+MULTIPLE_OTHER_INVALID_MESSAGE: Other messages are invalid
