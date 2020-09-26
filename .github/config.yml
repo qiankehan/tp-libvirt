@@ -1,0 +1,10 @@
+PR_TITLE_REGEX: [a-zA-Z0-9_- ]+:
+COMMIT_MESSAGE_REGEX: .*Signed-off-by.*
+OUTPUT_TITLE_FAIL: Message validation failed!!!
+OUTPUT_TITLE_SUCCESS: Message validation passed!!!
+VALID_COMMIT_MESSAGE: Commit messages are valid
+INVALID_COMMIT_MESSAGE: Commit messages are invalid
+SINGLE_OTHER_INVALID_MESSAGE: other message is invalid
+MULTIPLE_OTHER_INVALID_MESSAGE: other messages are invalid
+VALID_PULL_REQUEST_MESSAGE: Pull request title is valid
+INVALID_PULL_REQUEST_MESSAGE: Pull request title is invalid
