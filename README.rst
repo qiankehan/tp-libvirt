@@ -6,7 +6,6 @@ This is the official test provider [1]_ for the following
 subtest types:
 
 * Libvirt
-* LVSB
 * V2V
 * Libguestfs
 
